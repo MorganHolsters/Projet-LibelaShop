@@ -1,0 +1,6 @@
+[14-Dec-2020 16:56:56 UTC] product_type was called incorrectly. Les propriétés du produit ne doivent pas être accessible directement. Backtrace: do_action('wp_ajax_lorada_product_quickview'), WP_Hook->do_action, WP_Hook->apply_filters, lorada_product_quickview_template, WC_Abstract_Legacy_Product->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[14-Dec-2020 16:56:56 UTC] The WC_Product::get_gallery_attachment_ids function is deprecated since version 3.0. Replace with WC_Product::get_gallery_image_ids.
+[14-Dec-2020 16:56:56 UTC] The WC_Product::get_gallery_attachment_ids function is deprecated since version 3.0. Replace with WC_Product::get_gallery_image_ids.
+[07-Feb-2021 09:58:01 UTC] product_type was called incorrectly. Les propriétés du produit ne doivent pas être accessible directement. Backtrace: do_action('wp_ajax_nopriv_lorada_product_quickview'), WP_Hook->do_action, WP_Hook->apply_filters, lorada_product_quickview_template, WC_Abstract_Legacy_Product->__get, wc_doing_it_wrong. This message was added in version 3.0.
+[07-Feb-2021 09:58:01 UTC] The WC_Product::get_gallery_attachment_ids function is deprecated since version 3.0. Replace with WC_Product::get_gallery_image_ids.
+[07-Feb-2021 09:58:01 UTC] The WC_Product::get_gallery_attachment_ids function is deprecated since version 3.0. Replace with WC_Product::get_gallery_image_ids.
